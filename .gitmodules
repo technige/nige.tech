@@ -1,3 +1,6 @@
 [submodule "py2neo"]
 	path = py2neo
 	url = git@github.com:technige/py2neo.git
+[submodule "cypy"]
+	path = cypy
+	url = git@github.com:technige/cypy.git
