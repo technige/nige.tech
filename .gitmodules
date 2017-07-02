@@ -4,3 +4,6 @@
 [submodule "cypy"]
 	path = cypy
 	url = git@github.com:technige/cypy.git
+[submodule "www-f"]
+	path = www-f
+	url = git@github.com:technige/www-f.git
